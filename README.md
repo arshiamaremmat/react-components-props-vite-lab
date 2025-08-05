@@ -1,3 +1,24 @@
+# React Blog Lab
+
+## How to Run the Project
+
+1. Clone the repo  
+   `git clone <repo-url>`
+
+2. Install dependencies  
+   `npm install`
+
+3. Start the dev server  
+   `npm start`
+
+## Features
+
+- Reusable components
+- Props-driven rendering
+- Static blog with sample data
+
+
+
 # Putting it All Together: Components and Props
 
 ## Learning Goals
